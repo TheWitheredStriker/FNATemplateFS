@@ -1,3 +1,5 @@
+__Just noticed a mistake (forgot to change a variable name), and can I only fix it tomorrow due to time constraints. Don't use this yet.__
+
 An F# template for FNA, ready to use out of the box. Credit to Remmah [for originally documenting this](https://gist.github.com/remmah/d7bcca26f46e799471d02395337c86ea).
 
 # Need inspiration?
